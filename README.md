@@ -1,5 +1,5 @@
 # Trader Performance vs Market Sentiment
-### Hyperliquid × Fear/Greed Index — Data Science Internship Assignment
+### Hyperliquid × Fear/Greed Index 
 
 ---
 
@@ -153,4 +153,3 @@ Unprofitable traders win 72.9% of trades but still lose money. Consistent Winner
 
 ---
 
-*Assignment submitted for Data Science / Analytics Intern role — Primetrade.ai*
