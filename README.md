@@ -23,7 +23,7 @@ This project analyzes how Bitcoin market sentiment (Fear/Greed) relates to trade
 ## Project Structure
 
 ```
-├── trader_sentiment_analysis.ipynb   # Main notebook
+├── MarketSentiment.ipynb             # Main notebook
 ├── fear_greed_index.csv              # Sentiment dataset
 ├── README.md                         # This file
 ├── chart1_performance_fear_vs_greed.png
